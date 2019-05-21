@@ -1,4 +1,5 @@
 --agregue esta linea de prueba
+--esta linea la agrego su papa
 create database luis_Robles
 
 select * from Datos_persona
