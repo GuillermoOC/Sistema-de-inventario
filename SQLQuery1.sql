@@ -1,4 +1,7 @@
+--agregue esta linea de prueba
 create database luis_Robles
+
+select * from Datos_persona
 
 create table persona (
 id varchar (5) primary key,
